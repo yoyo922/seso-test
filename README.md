@@ -36,7 +36,7 @@ If - for whatever reason - you cannot create a GitHub repo for this challenge, i
 
 ## How to run
 
-Created by Peter Zhou
+Solution by Peter Zhou
 
 - npm install
 - npm start
